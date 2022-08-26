@@ -1,0 +1,25 @@
+{
+  "name": "discord2fa",
+  "version": "1.0.0",
+  "description": "You can now provide your users with a new 2FA service. Combining your platform and a discord bot, users can now give users the ability to allow logins through discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotReeceHarris/Discord2FA.git"
+  },
+  "keywords": [
+    "2fa",
+    "discord",
+    "platform",
+    "security"
+  ],
+  "author": "Reece Harris",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/NotReeceHarris/Discord2FA/issues"
+  },
+  "homepage": "https://github.com/NotReeceHarris/Discord2FA#readme"
+}
